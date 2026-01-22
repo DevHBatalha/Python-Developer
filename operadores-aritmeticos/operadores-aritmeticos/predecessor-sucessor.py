@@ -1,0 +1,1 @@
+#!/usr/bin/env python3# -*- coding: utf-8 -*-"""Created on Thu Jan 22 12:11:37 2026Programa que leia um número e mostra o seu sucessor e seu antecessor!@author: heliobatalha"""n = int(input('Escreva um número inteiro: '))print('Analisando o valor introduzido {}, o seu antecessor é {}, e o seu sucessor é {}' .format(n, (n-1), (n+1)))
