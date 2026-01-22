@@ -1,0 +1,1 @@
+medidas = float(input('Escreva o valor em metros: '))cm = medidas * 100mm = medidas *1000print('O valor {} m Introduzido equivale a {:.0f} cm e corresponde a {:.0f} mm'.format(medidas, cm, mm))
